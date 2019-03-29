@@ -4,6 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2019-3-29item.iml" filepath="$PROJECT_DIR$/.idea/2019-3-29item.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-item/springboot-item.iml" filepath="$PROJECT_DIR$/springboot-item/springboot-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-framework-common/xc-framework-common.iml" filepath="$PROJECT_DIR$/springboot-item/xc-framework-common/xc-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-framework-model/xc-framework-model.iml" filepath="$PROJECT_DIR$/springboot-item/xc-framework-model/xc-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-framework-parent/xc-framework-parent.iml" filepath="$PROJECT_DIR$/springboot-item/xc-framework-parent/xc-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-framework-utils/xc-framework-utils.iml" filepath="$PROJECT_DIR$/springboot-item/xc-framework-utils/xc-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-service-api/xc-service-api.iml" filepath="$PROJECT_DIR$/springboot-item/xc-service-api/xc-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-item/xc-service-manage-cms/xc-service-manage-cms.iml" filepath="$PROJECT_DIR$/springboot-item/xc-service-manage-cms/xc-service-manage-cms.iml" />
     </modules>
   </component>
 </project>
